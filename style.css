@@ -1,0 +1,55 @@
+.judul-atas {
+    text-align: center;
+    font-size: 24px;    
+    
+}
+
+
+.foto-profil img {
+    border-radius: 20%;
+    height: 200px;
+    width: 150px;
+}
+
+.judul-section {
+    font-size: 18px;
+}
+
+.text-section {
+    font-size: 14px;
+}
+
+.section1 {
+    background-color: lemonchiffon;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+
+}
+
+.box {
+    background-color: lightblue;
+    width: 375px;
+    height: 225px;
+    padding: 20px;
+}
+
+.tulisan {
+    font-size: 14px;
+    line-height: 1;
+}
+
+.section2 {
+    align-items: center;
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-around;
+   
+}
+
+.data-pribadi {
+    width: 300px;
+}
